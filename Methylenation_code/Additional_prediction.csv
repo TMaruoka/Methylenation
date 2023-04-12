@@ -1,0 +1,8 @@
+,E(RB3LYP),Dipole Moment,Polarizability (a),Zero-point Energy Correction,"C=O stretch
+Frequency","C=O stretch
+Raman Activity","C=O stretch
+Depolar-P","C2-H stretch
+Frequency","C2-H stretch
+Depolar-P",O NBO Charge,C2-O length,L,B1,B5,LUMO(chk),HOMO(chk),X=O(ONBO),X=O(CNBO),"C Length(X=O,CHO)"
+M31_benzaldehyde_flow,-345.582685,3.281821,70.842,0.110011,1799.21,77.4428,0.3405,2896.88,0.2989,-0.528,1.21628,6.28,1.7,3.11,0.01142,-0.25468,0,0,0
+M32_2-Phenylpropionaldehyde_flow,-424.20784,2.6658895,90.686333,0.166822,1828.14,16.0672,0.3699,2887.02,0.3746,-0.525,1.21,7.03,1.7,6.24,-0.03106,-0.23936,0,0,0
